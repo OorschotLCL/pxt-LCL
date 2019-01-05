@@ -13,9 +13,17 @@
     "files": [
         "README.md",
         "LCL.ts",
-		"pxtarget.json",
 		"icon.png"
     ],
+	"runtime": {
+      "mathBlocks": false,
+      "loopsBlocks": true,
+      "logicBlocks": true,
+      "variablesBlocks": true,
+      "textBlocks": false,
+      "functionBlocks": false,
+      "listsBlocks": false 
+    },
     "testFiles": [
         "test.ts"
     ],
