@@ -6,7 +6,7 @@
     "dependencies": {
         "core": "*",
         "OLED": "github:Tinkertanker/pxt-oled-ssd1306#v1.2.5",
-        "OLED": "github:Tinkertanker/pxt-tinkercademy-tinker-kit"
+        "OLED": "github:Tinkertanker/pxt-tinkercademy-tinker-kit#1.0.6"
     },
     "files": [
         "README.md",
