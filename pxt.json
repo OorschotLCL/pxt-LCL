@@ -1,7 +1,7 @@
 {
     "name": "LCL",
     "version": "1.0.6",
-    "description": "Alles voor LCL-XL programmeren",
+    "description": "Alles voor LCL-XL programmeren.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
