@@ -1,5 +1,5 @@
 {
-  "name": "Tinkercademy Kit",
+  "name": "LCL-XL programmeren",
   "version": "1.0.0",
   "dependencies": {
     "pxt-microbit": "^0.14.34"
