@@ -22,3 +22,13 @@ namespace LCLXL {
         basic.showString("LCL-XL");
     } */
 }
+
+namespace userconfig {
+    /**
+     * A simple event taking an function handler
+     */
+    //% block="on start"
+    export function onStart(handler: () => void) {
+		basic.showString("LCL-XL");
+    }
+}
