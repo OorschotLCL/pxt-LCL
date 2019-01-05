@@ -23,12 +23,14 @@ namespace LCLXL {
     } */
 }
 
-namespace Basic {
+//% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
+/*
+namespace basic {
     /**
      * A simple event taking an function handler
-     */
+    
     //% block="on start"
     export function onStart(handler: () => void) {
 		basic.showString("LCL-XL");
     }
-}
+} */
