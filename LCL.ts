@@ -5,7 +5,7 @@
 
 
 //% color=#0fbc11 icon="\uf121"
-namespace LCL-XL {
+namespace LCLXL {
     /**
     * Computes the famous Fibonacci number sequence!
     */
