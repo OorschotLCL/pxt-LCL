@@ -8,17 +8,17 @@
 namespace LCLXL {
     /**
     * Computes the famous Fibonacci number sequence!
-    */
+    
     //% block
     export function fib(value: number): number {
         return value <= 1 ? value : fib(value - 1) + fib(value - 2);
-    }
+    }*/
 	
 	/**
     * shows LCL-XL
-    */
+   
     //% block
     export function lcl(): void {
         basic.showString("LCL-XL");
-    }
+    } */
 }
