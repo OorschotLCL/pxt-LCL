@@ -13,6 +13,7 @@
     "files": [
         "README.md",
         "LCL.ts",
+		"pxtarget.json",
 		"icon.png"
     ],
     "testFiles": [
