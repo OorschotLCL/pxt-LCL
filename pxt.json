@@ -1,7 +1,7 @@
 {
-    "name": "Tinkercademy",
-    "version": "1.0.6",
-    "description": "Tinkercademy package for the tinker:kit",
+    "name": "LCL-xl",
+    "version": "1.0.0",
+    "description": "Alles wat je nodig hebt bij LCL-xl programmeren",
     "license": "MIT",
     "dependencies": {
         "core": "*",
