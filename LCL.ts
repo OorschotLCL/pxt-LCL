@@ -22,7 +22,7 @@ enum OnOff {
  */
 
 //% color=#0fbc11 icon="\uf121"
-namespace tinkercademy {
+namespace tinkercademy2 {
 
     let crashSensorPin: DigitalPin;
     /**
