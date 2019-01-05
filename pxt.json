@@ -12,7 +12,8 @@
     },
     "files": [
         "README.md",
-        "LCL.ts"
+        "LCL.ts",
+		"icon.png"
     ],
     "testFiles": [
         "test.ts"
