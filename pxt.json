@@ -2,14 +2,13 @@
     "name": "LCL-xl",
     "version": "0.0.1",
     "description": "Alles wat je nodig hebt bij LCL-xl programmeren.",
-    "license": "MIT",
     "dependencies": {
         "core": "*",
-        "OLED": "github:Tinkertanker/pxt-tinkercademy-tinker-kit"
+        "tinker:kit": "github:Tinkertanker/pxt-tinkercademy-tinker-kit"
     },
     "files": [
         "README.md",
-        "tinkercademy.ts"
+        "LCL.ts"
     ],
     "testFiles": [
         "tests.ts"
