@@ -3,9 +3,8 @@
     "version": "0.0.1",
     "description": "Alles wat je nodig hebt bij LCL-xl programmeren.",
     "dependencies": {
-        "core": "*",
-        "tinker:kit": "github:Tinkertanker/pxt-tinkercademy-tinker-kit"
-    },
+        "core": "*"
+        },
     "files": [
         "README.md",
         "LCL.ts"
