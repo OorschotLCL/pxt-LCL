@@ -18,7 +18,7 @@ namespace LCLXL {
     * shows LCL-XL
     */
     //% block
-    export function LCL(): void {
-        basic.showString("LCL-XL");
+    export function lcl(): void {
+        basic.showString("LCL-XL2");
     }
 }
