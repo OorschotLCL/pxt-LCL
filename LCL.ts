@@ -23,7 +23,7 @@ namespace LCLXL {
     } */
 }
 
-namespace userconfig {
+namespace Basic {
     /**
      * A simple event taking an function handler
      */
