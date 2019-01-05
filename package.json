@@ -1,6 +1,6 @@
 {
-  "name": "LCL-xl pakket",
-  "version": "0.0.1",
+  "name": "Tinkercademy Kit",
+  "version": "1.0.0",
   "dependencies": {
     "pxt-microbit": "^0.14.34"
   },
