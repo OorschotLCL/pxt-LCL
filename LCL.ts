@@ -10,27 +10,30 @@ namespace LCLXL {
     * Computes the famous Fibonacci number sequence!
     
     //% block
+	*/
     export function fib(value: number): number {
         return value <= 1 ? value : fib(value - 1) + fib(value - 2);
-    }*/
+    }
 	
 	/**
     * shows LCL-XL
    
     //% block
+	*/
     export function lcl(): void {
         basic.showString("LCL-XL");
-    } */
+    } 
 }
 
 //% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
-/*
+
 namespace basic {
     /**
      * A simple event taking an function handler
     
     //% block="on start"
+	*/
     export function onStart(handler: () => void) {
 		basic.showString("LCL-XL");
     }
-} */
+} 
