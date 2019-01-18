@@ -29,7 +29,7 @@ namespace LCLXL {
     //% block
 	*/
     export function demo(): void {
-        if (tinkercademy.PIR(DigitalPin.P10)) {
+        if (tinkercademy.PIR(DigitalPin.P5)) {
 			basic.showIcon(IconNames.Happy)
 		} else {
 			basic.showIcon(IconNames.Sad)
