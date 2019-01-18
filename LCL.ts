@@ -23,17 +23,35 @@ namespace LCLXL {
     export function lcl(): void {
         basic.showString("LCL-XL");
     } 
+	
+	/**
+    * Demo open dag   
+    //% block
+	*/
+    export function demo(): void {
+        if (tinkercademy.PIR(DigitalPin.P10)) {
+			basic.showIcon(IconNames.Happy)
+		} else {
+			basic.showLeds(`
+				. . . . .
+				. # . # #
+				. . . . .
+				# . . . #
+				. # # # .
+				`)
+		}
+    } 
 }
 
 //% color=190 weight=100 icon="\uf1ec" block="Basic Blocks"
-
+/**
 namespace basic {
-    /**
+    
      * A simple event taking an function handler
     
     //% block="on start"
-	*/
+	
     export function onStart(handler: () => void) {
 		basic.showString("LCL-XL");
     }
-} 
+} */
