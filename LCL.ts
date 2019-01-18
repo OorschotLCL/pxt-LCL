@@ -30,15 +30,9 @@ namespace LCLXL {
 	*/
     export function demo(): void {
         if (tinkercademy.PIR(DigitalPin.P10)) {
-			basic.showLeds(`
-				. . . . .
-				. # . # #
-				. . . . .
-				# . . . #
-				. # # # .
-				`)
-		} else {
 			basic.showIcon(IconNames.Happy)
+		} else {
+			basic.showIcon(IconNames.Sad)
 			
 		}
     } 
